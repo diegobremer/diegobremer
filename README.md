@@ -7,6 +7,16 @@
 
 ## Hello, everyone! 👋 Welcome to my GitHub!  
 
+### 🏆 Achievements  
+<a href="https://github.com/diegobremer/projeto-amigo-secreto" target="_blank">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle.webp" alt="First Project Badge" height="40">
+</a>  
+
+- **Completed my first project** in the Oracle Next Education program!  
+  *(First project developed in the One Oracle Next Education / Alura program.)*
+
+---
+
 ### About Me  
 My name is **Diego Bremer**, and I’m returning to the programming world after a few years. 🚀  
 Currently, I’m taking part in the **Oracle Next Education** program in partnership with **Alura**, fully focused on entering the tech industry! 💻  
@@ -30,13 +40,23 @@ I’m passionate about learning, exploring new technologies, and turning ideas i
 - Passionate about **technology** and everything innovative!  
 - In my free time, I’m a **gamer**, a hobby I’ve enjoyed since childhood. 🕹️  
 
-### 📫 Where to Find Me  
+### 📧 Where to Find Me  
 - [LinkedIn](https://www.linkedin.com/in/diego-bremer-5373581b2)  
 - [Email](mailto:bremer250cc@hotmail.com)  
 
 ---
 
 ## Olá, pessoal! 👋 Bem-vindos ao meu GitHub!  
+
+### 🏆 Conquistas  
+<a href="https://github.com/diegobremer/projeto-amigo-secreto" target="_blank">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle.webp" alt="Primeiro Projeto Concluído" height="40">
+</a>  
+
+- **Concluí meu primeiro projeto** no programa Oracle Next Education!  
+  *(Primeiro projeto desenvolvido no Curso One Oracle Next Education / Alura.)*
+
+---
 
 ### Sobre mim  
 Meu nome é **Diego Bremer**, e estou retornando ao mundo da programação após alguns anos. 🚀  
@@ -57,13 +77,12 @@ Sou apaixonado por aprender, explorar novas tecnologias e transformar ideias em 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>  
 </div>
 
-### 🎮 Fun Facts  
+### 🎮 Curiosidades  
 - Apaixonado por **tecnologia** e tudo que envolve inovação!  
 - Nas horas vagas, sou um **gamer**, hobby que cultivo desde a infância. 🕹️  
 
-### 📫 Como me encontrar  
+### 📧 Como me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/diego-bremer-5373581b2)  
 - [Email](mailto:bremer250cc@hotmail.com)  
 
 ---
-
