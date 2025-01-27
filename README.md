@@ -41,7 +41,7 @@ I’m passionate about learning, exploring new technologies, and turning ideas i
 - In my free time, I’m a **gamer**, a hobby I’ve enjoyed since childhood. 🕹️  
 
 ### 📧 Where to Find Me  
-- [LinkedIn](https://www.linkedin.com/in/diego-bremer-5373581b2)  
+- [LinkedIn](https://www.linkedin.com/in/diegobremer-dev)  
 - [Email](mailto:bremer250cc@hotmail.com)  
 
 ---
@@ -82,7 +82,7 @@ Sou apaixonado por aprender, explorar novas tecnologias e transformar ideias em 
 - Nas horas vagas, sou um **gamer**, hobby que cultivo desde a infância. 🕹️  
 
 ### 📧 Como me encontrar  
-- [LinkedIn](https://www.linkedin.com/in/diego-bremer-5373581b2)  
+- [LinkedIn](https://www.linkedin.com/in/diegobremer-dev)  
 - [Email](mailto:bremer250cc@hotmail.com)  
 
 ---
