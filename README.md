@@ -14,12 +14,19 @@
 <a href="https://github.com/diegobremer/Alura-Store" target="_blank">
   <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_2.webp" alt="Second Project Badge" height="40">
 </a>  
+<a href="https://github.com/diegobremer/TelecomX" target="_blank">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_3.webp" alt="Third Project Badge - TelecomX" height="40">
+</a>  
 
 - **Completed my first project** in the Oracle Next Education program!  
   *(First project developed in the One Oracle Next Education / Alura program.)*
-  
+
 - **Completed my second project** in the Oracle Next Education program!  
   *(Second project developed in the One Oracle Next Education / Alura program, focused on Data Science fundamentals.)*
+
+- **Completed my third project** in the Oracle Next Education program!  
+  *(Project focused on churn analysis for a fictional telecom company — explored real data, created visual insights, and generated business hypotheses using Python and pandas.)*
+
 
 ---
 
@@ -61,12 +68,19 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 <a href="https://github.com/diegobremer/Alura-Store" target="_blank">
   <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_2.webp" alt="Segundo Projeto Concluído" height="40">
 </a>  
+<a href="https://github.com/diegobremer/TelecomX" target="_blank">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_3.webp" alt="Terceiro Projeto Concluído - TelecomX" height="40">
+</a>  
 
 - **Concluí meu primeiro projeto** no programa Oracle Next Education!  
   *(Primeiro projeto desenvolvido no Curso One Oracle Next Education / Alura.)*
-  
+
 - **Concluí meu segundo projeto** no programa Oracle Next Education!  
   *(Segundo projeto desenvolvido no Curso One Oracle Next Education / Alura, com foco em fundamentos de Data Science.)*
+
+- **Concluí meu terceiro projeto** no programa Oracle Next Education!  
+  *(Projeto voltado para análise de cancelamento de clientes (churn) em uma empresa de telecom — com análise de dados reais, geração de gráficos e insights estratégicos utilizando Python e pandas.)*
+
 
 ---
 
