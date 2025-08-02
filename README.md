@@ -17,6 +17,9 @@
 <a href="https://github.com/diegobremer/TelecomX" target="_blank">
   <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_3.webp" alt="Third Project Badge - TelecomX" height="40">
 </a>  
+<a href="https://github.com/diegobremer/TelecomX_parte2" target="_blank">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_4.webp" alt="Fourth Project Badge - TelecomX Part 2" height="40">
+</a>  
 
 - **Completed my first project** in the Oracle Next Education program!  
   *(First project developed in the One Oracle Next Education / Alura program.)*
@@ -27,6 +30,8 @@
 - **Completed my third project** in the Oracle Next Education program!  
   *(Project focused on churn analysis for a fictional telecom company — explored real data, created visual insights, and generated business hypotheses using Python and pandas.)*
 
+- **Completed my fourth project** in the Oracle Next Education program!  
+  *(A machine learning project expanding on customer churn analysis: constructed and compared predictive models (Decision Tree, Random Forest, Logistic Regression, KNN), analyzed key factors driving churn, and proposed data-driven retention strategies.)*
 
 ---
 
@@ -71,6 +76,9 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 <a href="https://github.com/diegobremer/TelecomX" target="_blank">
   <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_3.webp" alt="Terceiro Projeto Concluído - TelecomX" height="40">
 </a>  
+<a href="https://github.com/diegobremer/TelecomX_parte2" target="_blank">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_4.webp" alt="Quarto Projeto Concluído - TelecomX Parte 2" height="40">
+</a>  
 
 - **Concluí meu primeiro projeto** no programa Oracle Next Education!  
   *(Primeiro projeto desenvolvido no Curso One Oracle Next Education / Alura.)*
@@ -81,6 +89,8 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 - **Concluí meu terceiro projeto** no programa Oracle Next Education!  
   *(Projeto voltado para análise de cancelamento de clientes (churn) em uma empresa de telecom — com análise de dados reais, geração de gráficos e insights estratégicos utilizando Python e pandas.)*
 
+- **Concluí meu quarto projeto** no programa Oracle Next Education!  
+  *(Projeto de machine learning expandindo a análise de churn: construção e comparação de modelos preditivos (Decision Tree, Random Forest, Regressão Logística, KNN), análise dos principais fatores de evasão e proposição de estratégias de retenção baseadas em dados.)*
 
 ---
 
