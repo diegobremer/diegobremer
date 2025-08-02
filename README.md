@@ -9,16 +9,16 @@
 
 ### 🏆 Achievements  
 <a href="https://github.com/diegobremer/projeto-amigo-secreto" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle.webp" alt="First Project Badge" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle.webp" alt="First Project Badge" height="40">
 </a>  
 <a href="https://github.com/diegobremer/Alura-Store" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_2.webp" alt="Second Project Badge" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_2.webp" alt="Second Project Badge" height="40">
 </a>  
 <a href="https://github.com/diegobremer/TelecomX" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_3.webp" alt="Third Project Badge - TelecomX" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_3.webp" alt="Third Project Badge - TelecomX" height="40">
 </a>  
 <a href="https://github.com/diegobremer/TelecomX_parte2" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_4.webp" alt="Fourth Project Badge - TelecomX Part 2" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_4.webp" alt="Fourth Project Badge - TelecomX Part 2" height="40">
 </a>  
 
 - **Completed my first project** in the Oracle Next Education program!  
@@ -68,16 +68,16 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 
 ### 🏆 Conquistas  
 <a href="https://github.com/diegobremer/projeto-amigo-secreto" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle.webp" alt="Primeiro Projeto Concluído" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle.webp" alt="Primeiro Projeto Concluído" height="40">
 </a>  
 <a href="https://github.com/diegobremer/Alura-Store" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_2.webp" alt="Segundo Projeto Concluído" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_2.webp" alt="Segundo Projeto Concluído" height="40">
 </a>  
 <a href="https://github.com/diegobremer/TelecomX" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_3.webp" alt="Terceiro Projeto Concluído - TelecomX" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_3.webp" alt="Terceiro Projeto Concluído - TelecomX" height="40">
 </a>  
 <a href="https://github.com/diegobremer/TelecomX_parte2" target="_blank">
-  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle_4.webp" alt="Quarto Projeto Concluído - TelecomX Parte 2" height="40">
+  <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_4.webp" alt="Quarto Projeto Concluído - TelecomX Parte 2" height="40">
 </a>  
 
 - **Concluí meu primeiro projeto** no programa Oracle Next Education!  
