@@ -1,10 +1,11 @@
 # Hello, everyone! 👋 Welcome to my GitHub!
 # Olá, pessoal! 👋 Bem-vindos ao meu GitHub!  
 
-[🇺🇸 English Version](#hello-everyone--welcome-to-my-github) | [🇧🇷 Versão em Português](#olá-pessoal--bem-vindos-ao-meu-github)  
+[🇺🇸 English Version](#english-version) | [🇧🇷 Versão em Português](#versao-em-portugues)  
 
 ---
 
+<a id="english-version"></a>
 ## Hello, everyone! 👋 Welcome to my GitHub!  
 
 ### 🏆 Achievements  
@@ -70,6 +71,7 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 
 ---
 
+<a id="versao-em-portugues"></a>
 ## Olá, pessoal! 👋 Bem-vindos ao meu GitHub!  
 
 ### 🏆 Conquistas  
