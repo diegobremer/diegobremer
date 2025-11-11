@@ -20,6 +20,9 @@
 <a href="https://github.com/diegobremer/TelecomX_parte2" target="_blank">
   <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_4.webp" alt="Fourth Project Badge - TelecomX Part 2" height="40">
 </a>  
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3BEFDDCCF209C2BCE361C342B995B9E72E12D8988D5F8AF61CF041DC9A066A1" target="_blank">
+  <img src="https://github.com/diegobremer/diegobremer/blob/main/badge_oneOracle/badge_OCI_nova.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" height="40">
+</a>  
 
 - **Completed my first project** in the Oracle Next Education program!  
   *(First project developed in the One Oracle Next Education / Alura program.)*
@@ -32,6 +35,9 @@
 
 - **Completed my fourth project** in the Oracle Next Education program!  
   *(A machine learning project expanding on customer churn analysis: constructed and compared predictive models (Decision Tree, Random Forest, Logistic Regression, KNN), analyzed key factors driving churn, and proposed data-driven retention strategies.)*
+
+- **Earned the Oracle Cloud Infrastructure 2025 Certified Foundations Associate certification!**  
+  *(Certification validating knowledge of cloud computing fundamentals, IaaS concepts, networking, security, and Oracle Cloud services.)*
 
 ---
 
@@ -79,6 +85,9 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 <a href="https://github.com/diegobremer/TelecomX_parte2" target="_blank">
   <img src="https://raw.githubusercontent.com/diegobremer/diegobremer/main/badge_oneOracle/badge_oneOracle_4.webp" alt="Quarto Projeto Concluído - TelecomX Parte 2" height="40">
 </a>  
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3BEFDDCCF209C2BCE361C342B995B9E72E12D8988D5F8AF61CF041DC9A066A1" target="_blank">
+  <img src="https://github.com/diegobremer/diegobremer/blob/main/badge_oneOracle/badge_OCI_nova.png" alt="Oracle Cloud Infrastructure 2025 Certified Foundations Associate" height="40">
+</a>  
 
 - **Concluí meu primeiro projeto** no programa Oracle Next Education!  
   *(Primeiro projeto desenvolvido no Curso One Oracle Next Education / Alura.)*
@@ -91,6 +100,9 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 
 - **Concluí meu quarto projeto** no programa Oracle Next Education!  
   *(Projeto de machine learning expandindo a análise de churn: construção e comparação de modelos preditivos (Decision Tree, Random Forest, Regressão Logística, KNN), análise dos principais fatores de evasão e proposição de estratégias de retenção baseadas em dados.)*
+
+- **Conquistei a certificação Oracle Cloud Infrastructure 2025 Certified Foundations Associate!**  
+  *(Certificação que valida conhecimentos fundamentais em computação em nuvem, conceitos de IaaS, rede, segurança e serviços da Oracle Cloud.)*
 
 ---
 
