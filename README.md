@@ -53,13 +53,28 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 - Contribute to open-source projects.  
 - Land a position as a developer in **2025**!  
 
-### 🛠️ Technologies I'm Learning  
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>  
+---
+
+### 🛠️ Technologies and Areas I'm Learning
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="Git & GitHub"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="Google Cloud"/>  
 </div>
+
+**Also exploring:**  
+☁️ *Cloud Computing* (Oracle Cloud, Google Cloud)  
+📊 *Data Science* and *Machine Learning* (pandas, scikit-learn, matplotlib)  
+🧠 *Generative AI* and *Prompt Engineering*  
+🧩 *Database Design* and *SQL for Analysis*  
+🔧 *Version Control* and collaboration using Git/GitHub  
+
+---
 
 ### 🎮 Fun Facts  
 - Passionate about **technology** and everything innovative!  
@@ -108,24 +123,34 @@ I'm passionate about learning, exploring new technologies, and turning ideas int
 
 ---
 
-### Sobre mim  
+### 🧑‍💻 Sobre mim  
 Meu nome é **Diego Bremer**, e estou retornando ao mundo da programação após alguns anos. 🚀  
 Atualmente, estou cursando o programa **Oracle Next Education** em parceria com a **Alura**, e em **2025 iniciei minha graduação em Engenharia de Software**, com foco total em adentrar ao mercado de tecnologia! 💻  
 
 Sou apaixonado por aprender, explorar novas tecnologias e transformar ideias em soluções reais.  
 
-### 🌟 Minhas metas  
-- Aprofundar conhecimentos em **desenvolvimento de software**.  
-- Contribuir para projetos open source.  
-- Ingressar em uma posição como desenvolvedor em **2025**!  
+---
 
-### 🛠️ Tecnologias em aprendizado  
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>  
+### 🌟 Tecnologias e Áreas em Aprendizado
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="Git & GitHub"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" title="Google Cloud"/>  
 </div>
+
+**Também explorando:**  
+☁️ *Computação em Nuvem* (Oracle Cloud, Google Cloud)  
+📊 *Data Science* e *Machine Learning* (pandas, scikit-learn, matplotlib)  
+🧠 *IA Generativa* e *Prompt Engineering*  
+🧩 *Modelagem de Dados* e *SQL para Análise*  
+🔧 *Versionamento e Colaboração* com Git/GitHub  
+
+---
 
 ### 🎮 Curiosidades  
 - Apaixonado por **tecnologia** e tudo que envolve inovação!  
